@@ -1,6 +1,6 @@
 # ordinary-differential-equation-solver
 
-A Python-based GUI application for solving ordinary differential equations (ODEs) using numerical methods.
+A Python-based GUI application for solving ordinary differential equations (ODEs).
 
 ## Features
 - Solve first-order ODEs
